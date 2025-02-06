@@ -13,11 +13,11 @@ const images = {
   background2: new Image(),
   birt: new Image(),
 }
-images.headTube.src = "./img/headTube.png"
-images.lineTube.src = "./img/lineTube.png"
-images.background1.src = "./img/background-1.png"
-images.background2.src = "./img/background-2.png"
-images.birt.src = "./img/birt.png"
+images.headTube.src = "./headTube.png"
+images.lineTube.src = "./lineTube.png"
+images.background1.src = "./background-1.png"
+images.background2.src = "./background-2.png"
+images.birt.src = "./birt.png"
 
 let imagesLoader = 0;
 const totalImages = Object.keys(images).length
