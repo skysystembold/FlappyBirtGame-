@@ -17,7 +17,7 @@ images.headTube.src = "./headTube.png"
 images.lineTube.src = "./lineTube.png"
 images.background1.src = "./background-1.png"
 images.background2.src = "./background-2.png"
-images.birt.src = "./birt.png"
+images.birt.src = "./spritePlayer.png"
 
 let imagesLoader = 0;
 const totalImages = Object.keys(images).length
